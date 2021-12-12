@@ -1,1 +1,1 @@
-This repsository is for # Algorithms-for-Optimization course.
+This repsository is for # Algorithms-for-Optimization practice
