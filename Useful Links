@@ -25,8 +25,15 @@ https://www.deeplearning.ai/ai-notes/optimization/
 Playground Tensorflow
 https://playground.tensorflow.org/
 
+Conjugate Gradient
+https://jonathan-hui.medium.com/rl-conjugate-gradient-5a644459137a
+
 AdaDelta
 https://arxiv.org/pdf/1212.5701.pdf
 
 Hypergradient descent
 https://arxiv.org/pdf/1703.04782.pdf
+
+Second Order Methods
+https://deeplearningmath.org/optimization-algorithms.html#second-order-methods
+
